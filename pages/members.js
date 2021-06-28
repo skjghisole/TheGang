@@ -1,4 +1,4 @@
-import Page from '/components/Page'
+import Page from '/components/page'
 import Title from '/components/title'
 
 const title = 'Member List'
